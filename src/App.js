@@ -81,6 +81,7 @@ function App() {
         data-lat="35.6759"
         data-lng="139.7449"
         data-zoom="14"
+        data-marker="off"
       ></div>
     </>
   );
